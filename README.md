@@ -4,6 +4,9 @@
 + [人々](./people.md)
 + [アクセス](./access.md)
 
+（[内部向け
+](https://github.com/hosoda-lab/internal-guide/blob/main/README.md)）
+
 ---
 
 [千葉工業大学](https://chibatech.jp)
